@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author inbam
+ *
+ */
+module practice {
+}
