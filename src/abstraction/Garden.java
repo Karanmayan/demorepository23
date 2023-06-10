@@ -6,7 +6,7 @@ public abstract class Garden {
 	
 	public void vegetable()
 	{
-		System.out.println("CARROT");
+		System.out.println("CARROT  ");
 		System.out.println("RADDISH");
 	}
 	
